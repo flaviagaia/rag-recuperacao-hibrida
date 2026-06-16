@@ -1,0 +1,14 @@
+[
+  {"q": "Art. 7º, inciso II", "tipo": "termo_exato", "gold": "art7_II"},
+  {"q": "Art. 7º, inciso X", "tipo": "termo_exato", "gold": "art7_X"},
+  {"q": "Art. 6º, inciso IX", "tipo": "termo_exato", "gold": "art6_IX"},
+  {"q": "Art. 6º, inciso VII", "tipo": "termo_exato", "gold": "art6_VII"},
+  {"q": "Art. 7º, inciso VI", "tipo": "termo_exato", "gold": "art7_VI"},
+  {"q": "Art. 6º, inciso III", "tipo": "termo_exato", "gold": "art6_III"},
+  {"q": "Dá para tratar dados para salvar a vida de uma pessoa?", "tipo": "parafrase", "gold": "art7_VII"},
+  {"q": "Os dados podem ser usados em pesquisas acadêmicas?", "tipo": "parafrase", "gold": "art7_IV"},
+  {"q": "A empresa precisa avisar a pessoa de forma clara sobre o tratamento?", "tipo": "parafrase", "gold": "art6_VI"},
+  {"q": "O titular pode consultar facilmente quais dados a empresa tem sobre ele?", "tipo": "parafrase", "gold": "art6_IV"},
+  {"q": "Só posso coletar o estritamente necessário para a finalidade?", "tipo": "parafrase", "gold": "art6_III"},
+  {"q": "É possível tratar dados durante um processo judicial?", "tipo": "parafrase", "gold": "art7_VI"}
+]
